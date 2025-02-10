@@ -18,3 +18,4 @@ def multiply_two_digits():
 multiply_two_digits()
 
 print("A brand new branch.")
+a = 5
